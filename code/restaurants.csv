@@ -1,0 +1,436 @@
+source,target,dist
+Coin Cafe,Jasmine,4.25
+Coin Cafe,Telegulle,4.92
+Coin Cafe,Bombay,3.58
+Coin Cafe,Movida,2.59
+Coin Cafe,Nakhchivan,2.57
+Coin Cafe,Portofino,6.53
+Coin Cafe,Meteadore,1.26
+Coin Cafe,Malacannes,3.74
+Coin Cafe,Xengeland,2.87
+Coin Cafe,Dolma,7.08
+Coin Cafe,Entree,4.04
+Coin Cafe,Novbahar,2.61
+Coin Cafe,Pekin,7.94
+Coin Cafe,Anadolu,8.76
+Coin Cafe,Meating Point,4.66
+Coin Cafe,Chanaqqala,4.8
+Coin Cafe,Chinar,0.75
+Coin Cafe,Gunaydin,8.34
+Coin Cafe,Zakura,9.74
+Coin Cafe,Flavors,1.13
+Coin Cafe,Qala,8.28
+Coin Cafe,Zogal,8.83
+Coin Cafe,Coco Lounge,5.87
+Coin Cafe,Han,5.13
+Coin Cafe,Vapiano,5.16
+Coin Cafe,Maharaja,6.32
+Coin Cafe,Dalida,8.65
+Coin Cafe,LaQuzu,6.34
+Coin Cafe,Court,6.05
+Jasmine,Telegulle,8.08
+Jasmine,Bombay,6.61
+Jasmine,Movida,3.55
+Jasmine,Nakhchivan,8.88
+Jasmine,Portofino,5.13
+Jasmine,Meteadore,6.97
+Jasmine,Malacannes,2.7
+Jasmine,Xengeland,2.94
+Jasmine,Dolma,8.4
+Jasmine,Entree,1.85
+Jasmine,Novbahar,5.65
+Jasmine,Pekin,2.76
+Jasmine,Anadolu,6.34
+Jasmine,Meating Point,1.82
+Jasmine,Chanaqqala,4.99
+Jasmine,Chinar,7.71
+Jasmine,Gunaydin,5.93
+Jasmine,Zakura,9.95
+Jasmine,Flavors,2.99
+Jasmine,Qala,6.66
+Jasmine,Zogal,4.64
+Jasmine,Coco Lounge,9.08
+Jasmine,Han,1.37
+Jasmine,Vapiano,4.02
+Jasmine,Maharaja,6.55
+Jasmine,Dalida,8.41
+Jasmine,LaQuzu,6.82
+Jasmine,Court,7.13
+Telegulle,Bombay,4.96
+Telegulle,Movida,0.79
+Telegulle,Nakhchivan,6.41
+Telegulle,Portofino,8.36
+Telegulle,Meteadore,5.55
+Telegulle,Malacannes,6.35
+Telegulle,Xengeland,9.77
+Telegulle,Dolma,8.5
+Telegulle,Entree,1.76
+Telegulle,Novbahar,8.75
+Telegulle,Pekin,5.3
+Telegulle,Anadolu,6.82
+Telegulle,Meating Point,2.52
+Telegulle,Chanaqqala,2.3
+Telegulle,Chinar,7.0
+Telegulle,Gunaydin,1.68
+Telegulle,Zakura,5.95
+Telegulle,Flavors,1.89
+Telegulle,Qala,2.4
+Telegulle,Zogal,2.06
+Telegulle,Coco Lounge,6.55
+Telegulle,Han,9.06
+Telegulle,Vapiano,2.99
+Telegulle,Maharaja,4.76
+Telegulle,Dalida,4.76
+Telegulle,LaQuzu,2.73
+Telegulle,Court,3.4
+Bombay,Movida,3.86
+Bombay,Nakhchivan,4.7
+Bombay,Portofino,2.48
+Bombay,Meteadore,8.39
+Bombay,Malacannes,3.7
+Bombay,Xengeland,5.66
+Bombay,Dolma,6.79
+Bombay,Entree,6.18
+Bombay,Novbahar,9.72
+Bombay,Pekin,4.98
+Bombay,Anadolu,3.58
+Bombay,Meating Point,3.14
+Bombay,Chanaqqala,6.36
+Bombay,Chinar,7.7
+Bombay,Gunaydin,5.55
+Bombay,Zakura,4.99
+Bombay,Flavors,9.94
+Bombay,Qala,2.0
+Bombay,Zogal,3.29
+Bombay,Coco Lounge,4.41
+Bombay,Han,6.78
+Bombay,Vapiano,0.98
+Bombay,Maharaja,3.82
+Bombay,Dalida,3.59
+Bombay,LaQuzu,4.19
+Bombay,Court,4.0
+Movida,Nakhchivan,5.44
+Movida,Portofino,1.82
+Movida,Meteadore,8.99
+Movida,Malacannes,5.09
+Movida,Xengeland,1.52
+Movida,Dolma,8.75
+Movida,Entree,0.83
+Movida,Novbahar,6.11
+Movida,Pekin,3.12
+Movida,Anadolu,7.43
+Movida,Meating Point,1.31
+Movida,Chanaqqala,4.83
+Movida,Chinar,6.82
+Movida,Gunaydin,2.57
+Movida,Zakura,2.08
+Movida,Flavors,4.73
+Movida,Qala,8.23
+Movida,Zogal,2.49
+Movida,Coco Lounge,1.24
+Movida,Han,7.27
+Movida,Vapiano,3.3
+Movida,Maharaja,1.96
+Movida,Dalida,2.87
+Movida,LaQuzu,1.39
+Movida,Court,3.21
+Nakhchivan,Portofino,9.97
+Nakhchivan,Meteadore,4.23
+Nakhchivan,Malacannes,4.27
+Nakhchivan,Xengeland,4.58
+Nakhchivan,Dolma,8.33
+Nakhchivan,Entree,6.57
+Nakhchivan,Novbahar,6.33
+Nakhchivan,Pekin,1.09
+Nakhchivan,Anadolu,4.85
+Nakhchivan,Meating Point,1.76
+Nakhchivan,Chanaqqala,8.05
+Nakhchivan,Chinar,2.01
+Nakhchivan,Gunaydin,4.86
+Nakhchivan,Zakura,7.49
+Nakhchivan,Flavors,8.85
+Nakhchivan,Qala,3.16
+Nakhchivan,Zogal,2.04
+Nakhchivan,Coco Lounge,1.51
+Nakhchivan,Han,2.52
+Nakhchivan,Vapiano,6.78
+Nakhchivan,Maharaja,6.94
+Nakhchivan,Dalida,9.98
+Nakhchivan,LaQuzu,1.16
+Nakhchivan,Court,9.55
+Portofino,Meteadore,5.16
+Portofino,Malacannes,4.66
+Portofino,Xengeland,9.17
+Portofino,Dolma,9.05
+Portofino,Entree,9.55
+Portofino,Novbahar,6.43
+Portofino,Pekin,9.63
+Portofino,Anadolu,7.46
+Portofino,Meating Point,5.29
+Portofino,Chanaqqala,1.38
+Portofino,Chinar,4.88
+Portofino,Gunaydin,9.04
+Portofino,Zakura,2.67
+Portofino,Flavors,4.92
+Portofino,Qala,5.49
+Portofino,Zogal,8.98
+Portofino,Coco Lounge,2.73
+Portofino,Han,8.47
+Portofino,Vapiano,7.47
+Portofino,Maharaja,6.39
+Portofino,Dalida,1.44
+Portofino,LaQuzu,3.86
+Portofino,Court,4.86
+Meteadore,Malacannes,3.43
+Meteadore,Xengeland,1.5
+Meteadore,Dolma,7.05
+Meteadore,Entree,1.48
+Meteadore,Novbahar,8.28
+Meteadore,Pekin,9.38
+Meteadore,Anadolu,9.69
+Meteadore,Meating Point,4.76
+Meteadore,Chanaqqala,4.1
+Meteadore,Chinar,1.22
+Meteadore,Gunaydin,6.85
+Meteadore,Zakura,2.57
+Meteadore,Flavors,8.43
+Meteadore,Qala,9.36
+Meteadore,Zogal,6.53
+Meteadore,Coco Lounge,5.6
+Meteadore,Han,8.21
+Meteadore,Vapiano,5.69
+Meteadore,Maharaja,7.83
+Meteadore,Dalida,6.22
+Meteadore,LaQuzu,4.79
+Meteadore,Court,3.62
+Malacannes,Xengeland,6.95
+Malacannes,Dolma,7.43
+Malacannes,Entree,2.62
+Malacannes,Novbahar,6.59
+Malacannes,Pekin,8.62
+Malacannes,Anadolu,4.38
+Malacannes,Meating Point,1.58
+Malacannes,Chanaqqala,7.98
+Malacannes,Chinar,8.98
+Malacannes,Gunaydin,5.25
+Malacannes,Zakura,4.25
+Malacannes,Flavors,5.65
+Malacannes,Qala,3.69
+Malacannes,Zogal,8.14
+Malacannes,Coco Lounge,8.56
+Malacannes,Han,1.14
+Malacannes,Vapiano,2.94
+Malacannes,Maharaja,4.17
+Malacannes,Dalida,2.98
+Malacannes,LaQuzu,2.52
+Malacannes,Court,8.05
+Xengeland,Dolma,7.14
+Xengeland,Entree,9.52
+Xengeland,Novbahar,7.65
+Xengeland,Pekin,4.47
+Xengeland,Anadolu,4.32
+Xengeland,Meating Point,1.45
+Xengeland,Chanaqqala,8.82
+Xengeland,Chinar,5.22
+Xengeland,Gunaydin,2.02
+Xengeland,Zakura,8.68
+Xengeland,Flavors,8.02
+Xengeland,Qala,0.71
+Xengeland,Zogal,4.66
+Xengeland,Coco Lounge,5.35
+Xengeland,Han,5.02
+Xengeland,Vapiano,9.25
+Xengeland,Maharaja,2.76
+Xengeland,Dalida,7.93
+Xengeland,LaQuzu,7.78
+Xengeland,Court,2.9
+Dolma,Entree,3.59
+Dolma,Novbahar,8.14
+Dolma,Pekin,1.83
+Dolma,Anadolu,4.08
+Dolma,Meating Point,1.79
+Dolma,Chanaqqala,3.04
+Dolma,Chinar,4.96
+Dolma,Gunaydin,5.31
+Dolma,Zakura,5.93
+Dolma,Flavors,2.4
+Dolma,Qala,4.57
+Dolma,Zogal,5.35
+Dolma,Coco Lounge,1.55
+Dolma,Han,6.24
+Dolma,Vapiano,7.5
+Dolma,Maharaja,8.45
+Dolma,Dalida,6.07
+Dolma,LaQuzu,5.22
+Dolma,Court,6.96
+Entree,Novbahar,2.4
+Entree,Pekin,8.84
+Entree,Anadolu,9.27
+Entree,Meating Point,4.53
+Entree,Chanaqqala,9.5
+Entree,Chinar,6.33
+Entree,Gunaydin,2.33
+Entree,Zakura,5.97
+Entree,Flavors,7.37
+Entree,Qala,6.58
+Entree,Zogal,1.97
+Entree,Coco Lounge,3.01
+Entree,Han,7.74
+Entree,Vapiano,3.87
+Entree,Maharaja,7.85
+Entree,Dalida,7.82
+Entree,LaQuzu,0.91
+Entree,Court,2.57
+Novbahar,Pekin,6.6
+Novbahar,Anadolu,6.95
+Novbahar,Meating Point,9.25
+Novbahar,Chanaqqala,1.52
+Novbahar,Chinar,8.9
+Novbahar,Gunaydin,8.58
+Novbahar,Zakura,7.06
+Novbahar,Flavors,3.77
+Novbahar,Qala,8.1
+Novbahar,Zogal,6.73
+Novbahar,Coco Lounge,1.34
+Novbahar,Han,7.93
+Novbahar,Vapiano,2.59
+Novbahar,Maharaja,7.28
+Novbahar,Dalida,8.17
+Novbahar,LaQuzu,9.7
+Novbahar,Court,2.0
+Pekin,Anadolu,4.97
+Pekin,Meating Point,8.13
+Pekin,Chanaqqala,2.09
+Pekin,Chinar,1.19
+Pekin,Gunaydin,5.12
+Pekin,Zakura,4.87
+Pekin,Flavors,1.69
+Pekin,Qala,4.64
+Pekin,Zogal,4.36
+Pekin,Coco Lounge,3.25
+Pekin,Han,3.0
+Pekin,Vapiano,1.06
+Pekin,Maharaja,6.42
+Pekin,Dalida,0.95
+Pekin,LaQuzu,5.8
+Pekin,Court,5.74
+Anadolu,Meating Point,6.94
+Anadolu,Chanaqqala,6.46
+Anadolu,Chinar,6.36
+Anadolu,Gunaydin,8.67
+Anadolu,Zakura,3.34
+Anadolu,Flavors,4.08
+Anadolu,Qala,9.86
+Anadolu,Zogal,2.18
+Anadolu,Coco Lounge,5.9
+Anadolu,Han,8.48
+Anadolu,Vapiano,4.07
+Anadolu,Maharaja,6.18
+Anadolu,Dalida,7.5
+Anadolu,LaQuzu,1.83
+Anadolu,Court,4.31
+Meating Point,Chanaqqala,8.65
+Meating Point,Chinar,1.45
+Meating Point,Gunaydin,5.02
+Meating Point,Zakura,8.05
+Meating Point,Flavors,4.8
+Meating Point,Qala,1.74
+Meating Point,Zogal,8.61
+Meating Point,Coco Lounge,9.94
+Meating Point,Han,4.8
+Meating Point,Vapiano,8.25
+Meating Point,Maharaja,9.1
+Meating Point,Dalida,4.06
+Meating Point,LaQuzu,9.83
+Meating Point,Court,9.16
+Chanaqqala,Chinar,4.11
+Chanaqqala,Gunaydin,2.79
+Chanaqqala,Zakura,9.31
+Chanaqqala,Flavors,9.92
+Chanaqqala,Qala,2.88
+Chanaqqala,Zogal,4.27
+Chanaqqala,Coco Lounge,2.72
+Chanaqqala,Han,7.46
+Chanaqqala,Vapiano,2.63
+Chanaqqala,Maharaja,3.18
+Chanaqqala,Dalida,4.73
+Chanaqqala,LaQuzu,5.32
+Chanaqqala,Court,2.62
+Chinar,Gunaydin,8.25
+Chinar,Zakura,8.15
+Chinar,Flavors,6.44
+Chinar,Qala,1.59
+Chinar,Zogal,3.42
+Chinar,Coco Lounge,5.55
+Chinar,Han,4.36
+Chinar,Vapiano,3.64
+Chinar,Maharaja,1.86
+Chinar,Dalida,3.29
+Chinar,LaQuzu,7.12
+Chinar,Court,8.38
+Gunaydin,Zakura,1.52
+Gunaydin,Flavors,7.2
+Gunaydin,Qala,1.9
+Gunaydin,Zogal,6.42
+Gunaydin,Coco Lounge,2.3
+Gunaydin,Han,9.71
+Gunaydin,Vapiano,9.36
+Gunaydin,Maharaja,5.22
+Gunaydin,Dalida,8.31
+Gunaydin,LaQuzu,0.89
+Gunaydin,Court,4.1
+Zakura,Flavors,8.76
+Zakura,Qala,4.47
+Zakura,Zogal,4.08
+Zakura,Coco Lounge,0.99
+Zakura,Han,1.44
+Zakura,Vapiano,4.65
+Zakura,Maharaja,7.48
+Zakura,Dalida,1.83
+Zakura,LaQuzu,0.74
+Zakura,Court,5.17
+Flavors,Qala,2.85
+Flavors,Zogal,1.24
+Flavors,Coco Lounge,8.9
+Flavors,Han,1.94
+Flavors,Vapiano,2.26
+Flavors,Maharaja,7.91
+Flavors,Dalida,4.56
+Flavors,LaQuzu,6.04
+Flavors,Court,4.61
+Qala,Zogal,4.34
+Qala,Coco Lounge,5.06
+Qala,Han,3.57
+Qala,Vapiano,3.68
+Qala,Maharaja,6.96
+Qala,Dalida,8.31
+Qala,LaQuzu,5.97
+Qala,Court,9.58
+Zogal,Coco Lounge,6.67
+Zogal,Han,2.78
+Zogal,Vapiano,9.31
+Zogal,Maharaja,7.2
+Zogal,Dalida,7.42
+Zogal,LaQuzu,4.82
+Zogal,Court,7.82
+Coco Lounge,Han,1.15
+Coco Lounge,Vapiano,1.54
+Coco Lounge,Maharaja,8.28
+Coco Lounge,Dalida,4.75
+Coco Lounge,LaQuzu,1.68
+Coco Lounge,Court,5.69
+Han,Vapiano,5.88
+Han,Maharaja,2.36
+Han,Dalida,7.33
+Han,LaQuzu,3.76
+Han,Court,2.69
+Vapiano,Maharaja,8.29
+Vapiano,Dalida,0.74
+Vapiano,LaQuzu,3.82
+Vapiano,Court,9.42
+Maharaja,Dalida,1.78
+Maharaja,LaQuzu,1.67
+Maharaja,Court,1.1
+Dalida,LaQuzu,3.28
+Dalida,Court,9.65
+LaQuzu,Court,6.89
